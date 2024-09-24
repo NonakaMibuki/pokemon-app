@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NonakaMibuki.github.io/pokemon-app/static/css/main.de1ef8ad.css",
+    "main.js": "/NonakaMibuki.github.io/pokemon-app/static/js/main.54ed8221.js",
+    "index.html": "/NonakaMibuki.github.io/pokemon-app/index.html",
+    "main.de1ef8ad.css.map": "/NonakaMibuki.github.io/pokemon-app/static/css/main.de1ef8ad.css.map",
+    "main.54ed8221.js.map": "/NonakaMibuki.github.io/pokemon-app/static/js/main.54ed8221.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de1ef8ad.css",
+    "static/js/main.54ed8221.js"
+  ]
+}
